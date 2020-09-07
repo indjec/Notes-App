@@ -17,3 +17,5 @@ Read a Particular Note:
 
 ![](readme_images/read.png)
 
+Title: Specifies the title of the note.
+Body: Specifies the content.
